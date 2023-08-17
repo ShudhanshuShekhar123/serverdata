@@ -49,5 +49,16 @@
             "password": "1235",
             "avatar": "https://tse4.mm.bing.net/th?id=OIP.eXWcaYbEtO2uuexHM8sAwwHaHa&pid=Api&P=0&h=180"
         }
+    ],
+    "forum":[
+        {
+            "id":1,
+            "username":"rahul",
+            "title":"what is js",
+            "language":"javascript",
+            "number of upvotes":"10",
+            "number of answers":"3",
+            "posted date":"2023-08-15"
+        }
     ]
 }
