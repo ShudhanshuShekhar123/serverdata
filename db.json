@@ -40,5 +40,14 @@
             "category": "Music",
             "price": 400
         }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "rahul",
+            "email": "rahul@gmail.com",
+            "password": "1235",
+            "avatar": "https://tse4.mm.bing.net/th?id=OIP.eXWcaYbEtO2uuexHM8sAwwHaHa&pid=Api&P=0&h=180"
+        }
     ]
 }
